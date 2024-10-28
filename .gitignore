@@ -1,0 +1,5 @@
+node_modules
+admin-interface/admin-console/build
+admin-interface/admin-console/amplify
+admin-interface/admin-console/src/aws-exports.js
+admin-interface/admin-console/src/amplifyconfiguration.json
