@@ -33,7 +33,7 @@ Upon sucessfull execution, you should see the CA cert ARN and Id printed:
 Create device credentials signed by the intermediate CA with the following command:
 
 ```
-./create_thing_creds.sh <thing-name>
+./create-thing-creds.sh <thing-name>
 ```
 This will produce 4 files in the `devices/` directory:
 > thingname.csr.pem - certificate signing request for generating the cert  
